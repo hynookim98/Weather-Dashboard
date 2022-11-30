@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    background: linear-gradient(89.40730618138332deg, rgba(181, 181, 38,1) 29.101562499999996%,rgba(24, 0, 237,1) 74.41406249999999%);
+}
+
+h1 {
+    font-size: 36px;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 32px;
+    padding: 10px;
+}
+
+input {
+    /* width: 100%; */
+    padding: 12px;
+}
