@@ -14,9 +14,17 @@
 
     <header><h1>Weather Dashboard</h1></header>
 
-    <div><h2>Search for a City:</h2></div>
+    <form id="form">
+        <div><h2>Search for a City:</h2></div>
+    
+        <input id="input" type="text" placeholder="eg. San Diego, Irvine">
+    
+        <div class="searchbtn">
+            <button id="submit" type="submit">Submit</button>
+        </div> 
+    </form>
 
-    <input type="text" placeholder="eg. San Diego, Irvine">
+    <div id="history"></div>
 
     <script src="./assets/jss/script.js"></script>
 </body>
